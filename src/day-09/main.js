@@ -22,15 +22,15 @@ function sumOddFibonacciNumbers(num) {
       return fib(n - 1) + fib(n - 2);
     }
   }
-  let oddResult = 0;
+  let result = 0;
   for (let i = 1; i <= num; i++) {
     const temp = fibonacci(i);
     // const temp = fib(i);
     if((temp % 2) !== 0 && temp <= num) {
-      oddResult += temp;
+      result += temp;
     }
   }
-  return oddResult;
+  return result;
 }
 
 
