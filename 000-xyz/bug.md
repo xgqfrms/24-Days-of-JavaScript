@@ -2,6 +2,7 @@
 
 https://scrimba.com/common.js
 
+![](https://img2020.cnblogs.com/blog/740516/202012/740516-20201210222558980-2088420381.png)
 ## Day 10
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-adjacent-elements-product-introduction-c8q4NRCE

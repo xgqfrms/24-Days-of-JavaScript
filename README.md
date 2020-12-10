@@ -45,4 +45,4 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-deposit-profit-in
 
 ## Day 01
 
-https://scrimba.com/learn/adventcalendar/-javascript-challenge-candies-introduction-cLkqvpcQ
+https://scrimba.com/learn/adventcalendar/
