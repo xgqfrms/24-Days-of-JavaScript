@@ -2,19 +2,8 @@
   "name": "24-days-of-javascript",
   "version": "1.0.0",
   "description": "24 Days Of JavaScript mas",
-  "main": "src/index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "dev": "tsc",
-    "app": "webpack && babel",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xgqfrms/24-days-of-JavaScript.git"
-  },
+  "author": "xgqfrms",
+  "license": "MIT",
   "keywords": [
     "24",
     "Days",
@@ -22,8 +11,27 @@
     "JavaScript",
     "mas"
   ],
-  "author": "xgqfrms",
-  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "app": "webpack && babel",
+    "dev": "yarn rmrf && tsc",
+    "build": "yarn rmrf && tsc",
+    "rmrf-map": "rimraf build/**/*.map",
+    "rmrf": "rimraf build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dev": "./scripts/dev.sh",
+    "app": "./scripts/app.sh",
+    "deploy": "./scripts/deploy.sh"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgqfrms/24-days-of-JavaScript.git"
+  },
   "bugs": {
     "url": "https://github.com/xgqfrms/24-days-of-JavaScript/issues"
   },
