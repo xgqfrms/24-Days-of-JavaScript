@@ -19,6 +19,7 @@
     "rmrf-map": "rimraf build/**/*.map",
     "rmrf": "rimraf build",
     "test": "jasmine",
+    "test-jest": "jest",
     "test-echo": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
@@ -38,6 +39,7 @@
   },
   "homepage": "https://github.com/xgqfrms/24-days-of-JavaScript#readme",
   "devDependencies": {
-    "jasmine": "^3.6.3"
+    "jasmine": "^3.6.3",
+    "jest": "^26.6.3"
   }
 }
