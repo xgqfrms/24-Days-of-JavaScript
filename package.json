@@ -1,0 +1,31 @@
+{
+  "name": "24-days-of-javascript",
+  "version": "1.0.0",
+  "description": "24 Days Of JavaScript mas",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "tsc",
+    "app": "webpack && babel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgqfrms/24-days-of-JavaScript.git"
+  },
+  "keywords": [
+    "24",
+    "Days",
+    "Of",
+    "JavaScript",
+    "mas"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgqfrms/24-days-of-JavaScript/issues"
+  },
+  "homepage": "https://github.com/xgqfrms/24-days-of-JavaScript#readme"
+}
