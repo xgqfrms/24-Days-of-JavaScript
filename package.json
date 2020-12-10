@@ -18,7 +18,8 @@
     "build": "yarn rmrf && tsc",
     "rmrf-map": "rimraf build/**/*.map",
     "rmrf": "rimraf build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine",
+    "test-echo": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "dev": "./scripts/dev.sh",
@@ -35,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/xgqfrms/24-days-of-JavaScript/issues"
   },
-  "homepage": "https://github.com/xgqfrms/24-days-of-JavaScript#readme"
+  "homepage": "https://github.com/xgqfrms/24-days-of-JavaScript#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
 }
