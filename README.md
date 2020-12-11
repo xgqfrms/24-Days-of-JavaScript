@@ -7,11 +7,15 @@ https://scrimba.com/learn/adventcalendar
 ## Day 24 23 22 21 20
 
 ## Day 19 18 17 16 15 14 23 12 11
-## Day 10
+
+## Day 11
+
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-avoid-obstacles-introduction-crGrJPTm
+## Day 10 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-adjacent-elements-product-introduction-c8q4NRCE
 
-## Day 09
+## Day 09 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-sum-odd-fibonacci-numbers-introduction-cmpWaRcW
 
@@ -39,10 +43,10 @@ https://scrimba.com/learn/adventcalendar/javascript-challenge-century-from-year-
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-chunky-monkey-introduction-cLkqvyAR
 
-## Day 02
+## Day 02 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-deposit-profit-introduction-cPk7yptk
 
-## Day 01
+## Day 01 ✅
 
-https://scrimba.com/learn/adventcalendar/
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-candies-introduction-cLkqvpcQ

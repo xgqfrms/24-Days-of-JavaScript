@@ -1,8 +1,6 @@
 function candies(children, candy) {
   //  write code here.
-  const result = (Math.floor(candy / children) * children);
-  console.log(`result`, result)
-  return result;
+  return (Math.floor(candy / children) * children);
 }
 
 
