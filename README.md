@@ -31,7 +31,7 @@ https://scrimba.com/learn/adventcalendar/javascript-challenge-count-vowel-conson
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-sort-by-length-introduction-cyw87yuK
 
-## Day 05
+## Day 05 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-reverse-a-string-introduction-c9rME3fv
 
