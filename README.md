@@ -39,7 +39,7 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-reverse-a-string-
 
 https://scrimba.com/learn/adventcalendar/javascript-challenge-century-from-year-introduction-cNDr7NUB
 
-## Day 03
+## Day 03 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-chunky-monkey-introduction-cLkqvyAR
 
