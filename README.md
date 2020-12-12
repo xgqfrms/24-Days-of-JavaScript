@@ -35,7 +35,7 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-sort-by-length-in
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-reverse-a-string-introduction-c9rME3fv
 
-## Day 04
+## Day 04 ✅
 
 https://scrimba.com/learn/adventcalendar/javascript-challenge-century-from-year-introduction-cNDr7NUB
 
