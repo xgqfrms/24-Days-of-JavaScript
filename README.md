@@ -23,11 +23,11 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-sum-odd-fibonacci
 
 https://scrimba.com/learn/adventcalendar/-javascriptmas-challenge-the-rolling-dice-introduction-c36yeWh7
 
-## Day 07
+## Day 07 ✅
 
 https://scrimba.com/learn/adventcalendar/javascript-challenge-count-vowel-consonant-introduction-coa5e49d4b957084837f19509
 
-## Day 06
+## Day 06 ❌
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-sort-by-length-introduction-cyw87yuK
 
