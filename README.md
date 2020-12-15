@@ -8,9 +8,26 @@ https://scrimba.com/learn/adventcalendar
 
 ## Day 19 18 17 16 15 14 23 12 11
 
+## Day 15
+
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-carousel-c9r874s3
+
+## Day 14
+
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-maximal-adjacent-difference-introduction-ckRE4Kt9
+
+## Day 13
+
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-extract-each-kth-introduction-ce96GEHP
+
+## Day 12
+
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-valid-time-introduction-cLkq4bSQ
+
 ## Day 11
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-avoid-obstacles-introduction-crGrJPTm
+
 ## Day 10 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-adjacent-elements-product-introduction-c8q4NRCE
@@ -19,7 +36,7 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-adjacent-elements
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-sum-odd-fibonacci-numbers-introduction-cmpWaRcW
 
-## Day 08
+## Day 08 ✅?
 
 https://scrimba.com/learn/adventcalendar/-javascriptmas-challenge-the-rolling-dice-introduction-c36yeWh7
 
