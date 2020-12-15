@@ -40,6 +40,8 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-sum-odd-fibonacci
 
 https://scrimba.com/learn/adventcalendar/-javascriptmas-challenge-the-rolling-dice-introduction-c36yeWh7
 
+https://scrimba.com/learn/adventcalendar/-javascriptmas-challenge-the-rolling-dice-solution-c36ypmAb
+
 ## Day 07 ✅
 
 https://scrimba.com/learn/adventcalendar/javascript-challenge-count-vowel-consonant-introduction-coa5e49d4b957084837f19509
