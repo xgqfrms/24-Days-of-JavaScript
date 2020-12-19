@@ -6,7 +6,14 @@ https://scrimba.com/learn/adventcalendar
 
 ## Day 24 23 22 21 20
 
-## Day 19 18 17 16 15 14 23 12 11
+## Day 19
+
+
+## Day 18
+
+## Day 17
+
+## Day 16
 
 ## Day 15
 
@@ -16,7 +23,7 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-carousel-c9r874s3
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-maximal-adjacent-difference-introduction-ckRE4Kt9
 
-## Day 13
+## Day 13 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-extract-each-kth-introduction-ce96GEHP
 
