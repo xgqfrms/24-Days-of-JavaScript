@@ -2,6 +2,7 @@ function avoidObstacles(nums) {
   // const largestNum = nums.sort((a, b) => a - b)[nums.length - 1];
   const largestNum = nums.sort((a, b) => a - b > 0 ? -1 : 1)[0];
   for (let i = 1; i <= largestNum + 1; i++) {
+    // every value not pass === OK
     if (nums.every((value) => value % i !== 0)) {
       // break;
       return i;

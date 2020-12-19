@@ -31,7 +31,7 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-extract-each-kth-
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-valid-time-introduction-cLkq4bSQ
 
-## Day 11
+## Day 11  ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-avoid-obstacles-introduction-crGrJPTm
 
