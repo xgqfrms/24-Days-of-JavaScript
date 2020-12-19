@@ -27,7 +27,7 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-maximal-adjacent-
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-extract-each-kth-introduction-ce96GEHP
 
-## Day 12
+## Day 12 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-valid-time-introduction-cLkq4bSQ
 
