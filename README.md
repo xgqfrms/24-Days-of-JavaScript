@@ -19,7 +19,7 @@ https://scrimba.com/learn/adventcalendar
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-carousel-c9r874s3
 
-## Day 14
+## Day 14 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-maximal-adjacent-difference-introduction-ckRE4Kt9
 
