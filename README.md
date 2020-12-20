@@ -4,17 +4,27 @@
 
 https://scrimba.com/learn/adventcalendar
 
-## Day 24 23 22 21 20
+## Day 24
+## Day 23
 
+## Day 22
+## Day 21
+
+## Day 20
+
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-domain-type-introduction-czbwRaH8https://scrimba.com/learn/adventcalendar/-javascript-challenge-domain-type-introduction-czbwRaH8
 ## Day 19
 
-
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-alphabet-subsequence-introduction-czbJ4Jt9
 ## Day 18
 
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-array-previous-less-introduction-co8cd43f5a1ebd5c407f1b3f8
 ## Day 17
 
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-different-symbols-naive-introduction-cocf74b85b168559bf4e75a1a
 ## Day 16
 
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-insert-dashes-introduction-co2914310ba38bcaab285ccfa
 ## Day 15
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-carousel-c9r874s3
