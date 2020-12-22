@@ -22,7 +22,7 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-array-previous-le
 ## Day 17
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-different-symbols-naive-introduction-cocf74b85b168559bf4e75a1a
-## Day 16
+## Day 16 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-insert-dashes-introduction-co2914310ba38bcaab285ccfa
 ## Day 15
