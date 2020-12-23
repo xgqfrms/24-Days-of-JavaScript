@@ -1,7 +1,7 @@
 function insertDashes(str) {
   // write code here
   const arr = str.split(` `);
-  // for (const {item, i} of arr) {
+  // for (const item of arr) {
   //   Array.from(item).join(`-`);
   // }
   return arr.reduce((acc, item, i) => {

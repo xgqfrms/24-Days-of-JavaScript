@@ -1,18 +1,23 @@
-# 24 Days Of JavaScript mas
+# 24 Days Of JavaScript Mas
 
-> 24 days of #JavaScriptmas
+> 24 days of #JavaScriptMas
 
 https://scrimba.com/learn/adventcalendar
 
 ## Day 24
+
 ## Day 23
 
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-social-media-input-crqLDVud
 ## Day 22
+
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-extract-matrix-column-introduction-co9a8445aab096f48e7e5ecf5
 ## Day 21
 
-## Day 20
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-sum-of-two-introduction-cE9B9rfE
+## Day 20 ✅
 
-https://scrimba.com/learn/adventcalendar/-javascript-challenge-domain-type-introduction-czbwRaH8https://scrimba.com/learn/adventcalendar/-javascript-challenge-domain-type-introduction-czbwRaH8
+https://scrimba.com/learn/adventcalendar/-javascript-challenge-domain-type-introduction-czbwRaH8
 ## Day 19
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-alphabet-subsequence-introduction-czbJ4Jt9
