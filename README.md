@@ -1,8 +1,9 @@
-# 24 Days Of JavaScript Mas
+# 24 Days Of JavaScript
 
-> 24 days of #JavaScriptMas
 
 https://24-days-of-javascript.xgqfrms.xyz/
+
+## 24 Days of JavaScript Mas
 
 > refs
 
