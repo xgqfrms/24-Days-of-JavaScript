@@ -2,6 +2,10 @@
 
 > 24 days of #JavaScriptMas
 
+https://24-days-of-javascript.xgqfrms.xyz/
+
+> refs
+
 https://scrimba.com/learn/adventcalendar
 
 ## Day 24
