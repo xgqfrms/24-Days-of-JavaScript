@@ -1,5 +1,17 @@
 function sumOfTwo(nums1, nums2, value) {
   //  write code here.
+  let result = false;
+  // let len = nums1.length < nums2.length ? nums1.length : nums2.length;
+  for (const item1 of nums1) {
+    for (const item2 of nums2) {
+      const temp = item1 + item2;
+      if(temp === value) {
+        result = true;
+        break;
+      }
+    }
+  }
+  return result;
 }
 
 

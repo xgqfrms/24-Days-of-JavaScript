@@ -20,7 +20,7 @@ https://scrimba.com/learn/adventcalendar/-javascript-challenge-social-media-inpu
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-extract-matrix-column-introduction-co9a8445aab096f48e7e5ecf5
 
-## Day 21
+## Day 21 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-sum-of-two-introduction-cE9B9rfE
 
