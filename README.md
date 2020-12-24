@@ -11,11 +11,12 @@ https://scrimba.com/learn/adventcalendar
 
 ## Day 24
 
+https://scrimba.com/learn/adventcalendar/test-your-agility-coc854c8d9bf01f02843f1b5c
 ## Day 23
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-social-media-input-crqLDVud
 
-## Day 22
+## Day 22 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-extract-matrix-column-introduction-co9a8445aab096f48e7e5ecf5
 

@@ -1,5 +1,10 @@
 function extractMatrixColumn(matrix, column) {
   //  write code here.
+  const result = [];
+  for (const arr of matrix) {
+    result.push(arr[column]);
+  }
+  return result;
 }
 
 
