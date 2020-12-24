@@ -13,27 +13,34 @@ https://scrimba.com/learn/adventcalendar
 ## Day 23
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-social-media-input-crqLDVud
+
 ## Day 22
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-extract-matrix-column-introduction-co9a8445aab096f48e7e5ecf5
+
 ## Day 21
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-sum-of-two-introduction-cE9B9rfE
+
 ## Day 20 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-domain-type-introduction-czbwRaH8
+
 ## Day 19
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-alphabet-subsequence-introduction-czbJ4Jt9
+
 ## Day 18
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-array-previous-less-introduction-co8cd43f5a1ebd5c407f1b3f8
+
 ## Day 17 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-different-symbols-naive-introduction-cocf74b85b168559bf4e75a1a
 ## Day 16 ✅
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-insert-dashes-introduction-co2914310ba38bcaab285ccfa
+
 ## Day 15 ❓
 
 https://scrimba.com/learn/adventcalendar/-javascript-challenge-carousel-c9r874s3
